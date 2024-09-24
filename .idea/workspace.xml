@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b828303-790d-47c5-91f5-77467b0c5b92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelling-iphone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/devices/ElectronicDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/devices/ElectronicDevice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/devices/iPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/devices/iPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/devices/iPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/devices/IPhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utils/InternetBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/InternetBrowser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utils/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/MusicPlayer.java" afterDir="false" />
     </list>
@@ -21,6 +16,14 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Principal.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
